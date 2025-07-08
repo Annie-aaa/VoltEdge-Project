@@ -1101,6 +1101,12 @@ The entire analysis, from data cleaning to final visualizations, was performed i
 6. **Aggregation & Visualization**: After cleaning and merging the data, various visualizations were created to analyze and communicate key insights from the dataset.
 
 
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).  
+You may use, share, and adapt the work for non-commercial purposes, provided you give appropriate credit.
+
+[View the full license](https://creativecommons.org/licenses/by-nc/4.0/)
 
 
 
