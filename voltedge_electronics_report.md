@@ -61,7 +61,7 @@ The dataset consists of five interconnected tables, each serving a distinct anal
 
 These tables are connected through unique identifiers such as CustomerKey, ProductKey, and StoreKey, enabling a structured analysis of who buys what, from where, and at what price. A diagram below visualizes these relationships, highlighting key columns and connections:
 
-![alt text](images/voltedge_data_table_diagram.png)
+![alt text](Images/voltedge_data_table_diagram.png)
 
 
 ## 4. Insights Deep-Dive
