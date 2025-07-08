@@ -67,7 +67,7 @@ These tables are connected through unique identifiers such as CustomerKey, Produ
 ## 4. Insights Deep-Dive
 ## 4.1. Section 1: Sales & Revenue Trends
 ### 4.1.1. Steady Growth Until 2019, Sharp Shift in 2020: Revenue Trends by Product Category (2016-2020)
-![alt text](Images\revenue_by_category.png)
+![alt text](Images/revenue_by_category.png)
 
 **General Trends (Market Evolution)**: 
 - In 2016, all product categories had similar revenue levels, but by 2017, Computers & Home Appliances dominated, doubling the revenue of other categories.
@@ -97,7 +97,7 @@ Likely due to financial year-end slowdowns, inventory resets, and delayed consum
 
 
 ### 4.1.2. The Rise of E-Commerce: Online vs. Physical Store Revenue Shift (2016-2020)
-![alt text](Images\online_vs_physical.png)
+![alt text](Images/online_vs_physical.png)
 
 **Overall Revenue Trends: Online vs. Physical Stores**:
 - Online and physical stores generated similar average revenue levels throughout 2016-2020, indicating that both channels were equally strong in terms of sales contribution.
@@ -131,7 +131,7 @@ Likely due to financial year-end slowdowns, inventory resets, and delayed consum
 
 
 ### 4.1.3. How Currency Fluctuations Affected Global Revenue: Exchange Rate & Sales Trends (2016-2020)
-![alt text](Images\exchange_rate.png)
+![alt text](Images/exchange_rate.png)
 
 **Revenue Trends by Country (2016–2020)**
 
@@ -152,7 +152,7 @@ Likely due to financial year-end slowdowns, inventory resets, and delayed consum
 
 
 ### 4.1.4. Where Are Our Most Profitable Stores? Country-Level Store & Customer Metrics (2020)
-![alt text](Images\country_store_customer.png)
+![alt text](Images/country_store_customer.png)
 
 **Total Revenue by Country**
 - The U.S. is the dominant market, generating $4.155M, nearly twice the revenue of Online ($2.07M) and more than five times the UK ($799K), the next highest country.
@@ -184,7 +184,7 @@ Likely due to financial year-end slowdowns, inventory resets, and delayed consum
 
 ## 4.2. Section 2: Customer Segmentation & Buying Patterns
 ### 4.2.1. Who Spends the Most? Revenue & Purchase Volume Breakdown by Age & Gender (2020)
-![alt text](Images\rev_age_gender.png)
+![alt text](Images/rev_age_gender.png)
  - **Older Customers (56+) Drive the Most Revenue & Sales Volume**:
 Customers aged 56+ contribute the highest revenue ($2.096M for males, $1.953M for females) and highest purchase volume (7667 for males, 7187 for females). This age group consistently spends the most across all product categories.
 
@@ -196,7 +196,7 @@ Males spend slightly more than females in most categories, but the gap is not si
 
 <br>
 
-![alt text](Images\customer_dems.png)
+![alt text](Images/customer_dems.png)
 
 **Revenue & Purchase Volume Trends by Age & Gender**:
 - Older customers (56+) are the most valuable segment.
@@ -230,7 +230,7 @@ Lower price points in these categories lead to lower revenue despite high custom
 
 
 ### 4.2.2. Where Are Our Customers? Regional Spending & Demographic Trends (2020)
-![alt text](Images\map.png)
+![alt text](Images/map.png)
 
 **Gender-Based Revenue & Customer Trends Across Countries**
 - **Males and females contribute nearly equal revenue in most countries**:
@@ -280,7 +280,7 @@ Unlike Canada & Australia, which rely on 56+ buyers, Germany and the UK have str
 These regions need an aggressive customer acquisition strategy.
 
 ### 4.2.3. Did We Lose Our Loyal Customers? Repeat vs. One-Time Buyers Before & After the Pandemic (2019-2020)
-![alt text](Images\loyal.png)
+![alt text](Images/loyal.png)
 
 **Shift Towards One-Time Buyers in 2020**
 - Revenue from One-Time Buyers increased from 50.1% (2019) to 68.8% (2020).
@@ -308,7 +308,7 @@ This suggests that even moderately engaged customers reduced their purchases.
 
 
 ### 4.2.4. Who Are Our Most Loyal Customers? Repeat vs. One-Time Buyer Segmentation (2020)
-![alt text](Images\buyer_cat.png)
+![alt text](Images/buyer_cat.png)
 
 **One-Time Buyers Dominate Across All Segments**
 
@@ -334,7 +334,7 @@ This suggests that even moderately engaged customers reduced their purchases.
 
 ## 4.3. Section 3: Product Performance & Bundling
 ### 4.3.1. Do Customers Prefer Certain Product Colors? Revenue & Sales Volume by Category and Color (2020)
-![alt text](Images\rev_cat_col.png)
+![alt text](Images/rev_cat_col.png)
 
 **Black & White Computers Generate the Highest Revenue & Sales Volume**
 - Black Computers ($1.258M) generate the most revenue, followed by White Computers ($1.094M).
@@ -358,7 +358,7 @@ This suggests that even moderately engaged customers reduced their purchases.
 
 
 ### 4.3.2. Which Brands Are Winning? Top-Performing Brands by Revenue & Sales Volume (2020)
-![alt text](Images\rev_cat_brand.png)
+![alt text](Images/rev_cat_brand.png)
 
 **Wide World Importers & Adventure Works Dominate High-Value Categories**
 - Wide World Importers Computers ($1.315M) & Adventure Works Computers ($1.289M) generate the highest revenue.
@@ -383,7 +383,7 @@ This suggests that even moderately engaged customers reduced their purchases.
 
 
 ### 4.3.3. What Do Customers Buy Together? Product Bundling Insights from Transaction Data
-![alt text](Images\product_bundling.png)
+![alt text](Images/product_bundling.png)
 
 **Low Bundling Frequency = Missed Upselling Opportunities**
 - Since no bundles were purchased more than twice, customers aren’t naturally buying these items together, which means:
